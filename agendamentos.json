@@ -1,0 +1,18 @@
+[
+  {
+    "chatId": "141661594226836@lid",
+    "nome": "Carlos",
+    "servico": "Corte de cabelo",
+    "data": "Amanhã",
+    "hora": "12:00",
+    "criadoEm": "2026-09-14T22:24:16.230Z"
+  },
+  {
+    "chatId": "141661594226836@lid",
+    "nome": "Cliente",
+    "servico": "Corte",
+    "data": "Hoje",
+    "hora": "12:00",
+    "criadoEm": "2026-09-19T14:21:46.078Z"
+  }
+]
